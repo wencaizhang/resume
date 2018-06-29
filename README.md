@@ -31,7 +31,7 @@
 1. **前端类库：** jQuery / Zepto / Bootstrap
 1. **版本控制工具：** Git / Svn
 1. **前端工程和自动化工具：** Gulp / Webpack
-1. **前端框架：** Backbone / Marionette.js、React / Redux 、Vue / Vuex
+1. **前端框架：** Backbone / Marionette.js、React / Redux 、Vue / Vuex、小程序
 1. **后端语言：** Node.js 和 PHP
 1. **Linux：** 基本命令使用
 
@@ -129,8 +129,7 @@
 ## 自我评价
 
 + 良好的自我管理能力和团队合作意识
-+ 善于学习，主要通过官方文档以及优秀博客学习前沿技术，将他人的见解与思想转换成自己的知
-识
++ 善于学习，主要通过官方文档以及优秀博客学习前沿技术，将他人的见解与思想转换成自己的知识
 
 ## 致谢
 

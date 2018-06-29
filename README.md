@@ -24,15 +24,16 @@
 
 ## 技能清单
 
-1. 掌握 HTML、CSS、JavaScript 等前端开发基础知识
-2. 掌握 HTML5、CSS3、ES6 等前端技术新规范
-3. 熟悉 JavaScript 的核心技术，包括并不限于 AJAX、DOM、BOM、JSON 等
-4. 熟练使用 jQuery（zepto） 和 Bootstrap 实现常见功能的开发
-5. 熟练使用 Git 进行代码版本管理，协同多人共同开发 
-6. 熟悉 Webpack、Gulp 等前端构建工具，对前端工程和自动化构建有一定理解；
-7. 熟练使用 Backbone/ Marionette.js、React/Redux 等 MVC/MVVM 框架
-8. 了解后端语言 Node.js 和 PHP
-9. 了解 Linux 基本命令使用
+以下均为我熟练使用的技能：
+
+1. **前端开发基本技能：** HTML / CSS / JavaScript
+1. **前端技术新规范：** HTML5 / CSS3 / ES6
+1. **前端类库：** jQuery / Zepto / Bootstrap
+1. **版本控制工具：** Git / Svn
+1. **前端工程和自动化工具：** Gulp / Webpack
+1. **前端框架：** Backbone / Marionette.js、React / Redux 、Vue / Vuex
+1. **后端语言：** Node.js 和 PHP
+1. **Linux：** 基本命令使用
 
 ## 工作经历
 
